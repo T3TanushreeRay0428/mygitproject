@@ -10,7 +10,7 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		int[] candies = {12,1,12};
+		int[]  candies = {12,1,12};
 		int extraCandies = 10;
 		
 		ArrayList<Boolean> list ;
